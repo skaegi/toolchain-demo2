@@ -115,11 +115,6 @@ test:
   service_id: saucelabs
   metadata: saucelabs.yml
 
-#Pager Duty
-alerting:
-  service_id: pagerduty
-  metadata: pagerduty.yml
-  
 #Web IDE
 webide:
   service_id: orion
